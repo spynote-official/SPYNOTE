@@ -1,4 +1,7 @@
-# SPYNOTE 
+<p align="center">
+<img src='https://spynote.org/wp-content/uploads/2024/04/l.png' style="height:200px;width:200px;" >
+</p>
+<h1 align=center>SPYNOTE</h1>
 
 
  #   [BUY HERE FROM WEBSITE]
